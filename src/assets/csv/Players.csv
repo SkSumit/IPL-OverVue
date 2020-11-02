@@ -1,0 +1,470 @@
+Player_Id,Player_Name,DOB,Country_Name,Team_Id
+1,SC Ganguly,08-07-1972,India,Kolkata Knight Riders
+2,BB McCullum,27-09-1981,New Zealand,Kolkata Knight Riders
+3,RT Ponting,19-12-1974,Australia,Kolkata Knight Riders
+4,DJ Hussey,15-07-1977,Australia,Kolkata Knight Riders
+5,Mohammad Hafeez,17-10-1980,Pakistan,Kolkata Knight Riders
+6,R Dravid,11-01-1973,India,Royal Challengers Bangalore
+7,W Jaffer,16-02-1978,India,Royal Challengers Bangalore
+8,V Kohli,05-11-1988,India,Royal Challengers Bangalore
+9,JH Kallis,16-10-1975,South Africa,Royal Challengers Bangalore
+10,CL White,18-08-1983,Australia,Royal Challengers Bangalore
+11,MV Boucher,03-12-1976,South Africa,Royal Challengers Bangalore
+12,B Akhil,07-10-1977,India,Royal Challengers Bangalore
+13,AA Noffke,30-04-1977,Australia,Royal Challengers Bangalore
+14,P Kumar,02-10-1986,India,Royal Challengers Bangalore
+15,Z Khan,07-10-1978,India,Royal Challengers Bangalore
+16,SB Joshi,06-06-1970,India,Royal Challengers Bangalore
+17,PA Patel,09-03-1985,India,Chennai Super Kings
+18,ML Hayden,29-10-1971,Australia,Chennai Super Kings
+19,MEK Hussey,27-05-1975,Australia,Chennai Super Kings
+20,MS Dhoni,07-07-1981,India,Chennai Super Kings
+21,SK Raina,27-11-1986,India,Chennai Super Kings
+22,JDP Oram,28-07-1978,New Zealand,Chennai Super Kings
+23,S Badrinath,30-08-1980,India,Chennai Super Kings
+24,K Goel,24-12-1986,India,Kings XI Punjab
+25,JR Hopes,24-10-1978,Australia,Kings XI Punjab
+26,KC Sangakkara,27-10-1977,Sri Lanka,Kings XI Punjab
+27,Yuvraj Singh,12-12-1981,India,Kings XI Punjab
+28,SM Katich,21-08-1975,Australia,Kings XI Punjab
+29,IK Pathan,27-10-1984,India,Kings XI Punjab
+30,T Kohli,17-12-1988,India,Rajasthan Royals
+31,YK Pathan,17-11-1982,India,Rajasthan Royals
+32,SR Watson,17-06-1981,Australia,Rajasthan Royals
+33,M Kaif,01-12-1980,India,Rajasthan Royals
+34,DS Lehmann,05-02-1970,Australia,Rajasthan Royals
+35,RA Jadeja,06-12-1988,India,Rajasthan Royals
+36,M Rawat,25-10-1985,India,Rajasthan Royals
+37,D Salunkhe,12-11-1982,India,Rajasthan Royals
+38,SK Warne,13-09-1969,Australia,Rajasthan Royals
+39,SK Trivedi,04-09-1982,India,Rajasthan Royals
+40,G Gambhir,14-10-1981,India,Delhi Daredevils
+41,V Sehwag,20-10-1978,India,Delhi Daredevils
+42,S Dhawan,05-12-1985,India,Delhi Daredevils
+43,L Ronchi,23-04-1981,Australia,Mumbai Indians
+44,ST Jayasuriya,30-06-1969,Sri Lanka,Mumbai Indians
+45,DJ Thornely,01-10-1978,Australia,Mumbai Indians
+46,RV Uthappa,11-11-1985,India,Mumbai Indians
+47,PR Shah,03-11-1987,India,Mumbai Indians
+48,AM Nayar,08-10-1983,India,Mumbai Indians
+49,SM Pollock,16-07-1973,South Africa,Mumbai Indians
+50,Harbhajan Singh,03-07-1980,India,Mumbai Indians
+51,S Chanderpaul,16-08-1974,West Indies,Royal Challengers Bangalore
+52,LRPL Taylor,08-03-1984,New Zealand,Royal Challengers Bangalore
+53,AC Gilchrist,14-11-1971,Australia,Deccan Chargers
+54,Y Venugopal Rao,26-02-1982,India,Deccan Chargers
+55,VVS Laxman,01-11-1974,India,Deccan Chargers
+56,A Symonds,09-06-1975,Australia,Deccan Chargers
+57,RG Sharma,30-04-1987,India,Deccan Chargers
+58,SB Styris,10-07-1975,New Zealand,Deccan Chargers
+59,SB Bangar,11-10-1972,India,Deccan Chargers
+60,WPUJC Vaas,27-01-1974,Sri Lanka,Deccan Chargers
+61,RP Singh,06-12-1985,India,Deccan Chargers
+62,WP Saha,24-10-1984,India,Kolkata Knight Riders
+63,LR Shukla,06-05-1981,India,Kolkata Knight Riders
+64,DPMD Jayawardene,27-05-1977,Sri Lanka,Kings XI Punjab
+65,S Sohal,10-11-1987,India,Kings XI Punjab
+66,B Lee,08-11-1976,Australia,Kings XI Punjab
+67,PP Chawla,24-12-1988,India,Kings XI Punjab
+68,WA Mota,20-09-1981,India,Kings XI Punjab
+69,Kamran Akmal,13-01-1982,Pakistan,Rajasthan Royals
+70,Shahid Afridi,01-03-1980,Pakistan,Kolkata Knight Riders
+71,DJ Bravo,07-10-1983,West Indies,Mumbai Indians
+72,MA Khote,22-04-1980,India,Mumbai Indians
+73,A Nehra,29-04-1979,India,Mumbai Indians
+74,GC Smith,01-02-1981,South Africa,Rajasthan Royals
+75,Pankaj Singh,06-05-1985,India,Royal Challengers Bangalore
+76,RR Sarwan,23-06-1980,West Indies,Kochi Tusker Kerala
+77,S Sreesanth,06-02-1983,India,Kochi Tusker Kerala
+78,VRV Singh,17-09-1984,India,Kochi Tusker Kerala
+79,SS Tiwary,30-12-1989,India,Kochi Tusker Kerala
+80,DS Kulkarni,10-12-1988,India,Kochi Tusker Kerala
+81,R Vinay Kumar,12-02-1984,India,Pune Warriors
+82,AB Agarkar,04-12-1977,India,Pune Warriors
+83,M Kartik,11-09-1976,India,Pune Warriors
+84,I Sharma,02-09-1988,India,Pune Warriors
+85,AM Rahane,06-06-1988,India,Pune Warriors
+86,Shoaib Malik,01-02-1982,Pakistan,Pune Warriors
+87,MK Tiwary,14-11-1985,India,Pune Warriors
+88,KD Karthik,01-06-1985,India,Pune Warriors
+89,R Bhatia,22-10-1979,India,Sunrisers Hyderabad
+90,MF Maharoof,07-09-1984,India,Sunrisers Hyderabad
+91,VY Mahesh,21-12-1987,India,Sunrisers Hyderabad
+92,TM Srivastava,07-11-1989,India,Sunrisers Hyderabad
+93,B Chipli,27-01-1983,India,Sunrisers Hyderabad
+94,DW Steyn,27-06-1983,South Africa,Sunrisers Hyderabad
+95,DB Das,22-09-1986,India,Sunrisers Hyderabad
+96,MK Pandey,10-09-1989,India,Sunrisers Hyderabad
+97,HH Gibbs,23-02-1974,South Africa,Sunrisers Hyderabad
+98,DNT Zoysa,13-05-1978,Sri Lanka,Sunrisers Hyderabad
+99,D Kalyankrishna,16-12-1983,India,Rising Pune Super Giants
+100,SE Marsh,09-07-1983,Australia,Rising Pune Super Giants
+101,SA Asnodkar,29-03-1984,India,Rising Pune Super Giants
+102,Sohail Tanvir,12-12-1984,Pakistan,Rising Pune Super Giants
+103,Salman Butt,07-10-1984,Pakistan,Rising Pune Super Giants
+104,BJ Hodge,29-12-1974,Australia,Rising Pune Super Giants
+105,Umar Gul,14-04-1984,Pakistan,Rising Pune Super Giants
+106,AB Dinda,25-03-1984,India,Rising Pune Super Giants
+107,SP Fleming,01-04-1973,New Zealand,Gujarat Lions
+108,S Vidyut,03-12-1981,India,Gujarat Lions
+109,JA Morkel,10-06-1981,South Africa,Gujarat Lions
+110,AB de Villiers,17-02-1984,South Africa,Gujarat Lions
+111,LPC Silva,14-12-1979,Sri Lanka,Gujarat Lions
+112,DB Ravi Teja,05-09-1987,India,Gujarat Lions
+113,Misbah-ul-Haq,28-05-1974,Pakistan,Gujarat Lions
+114,YV Takawale,05-11-1984,India,Gujarat Lions
+115,RR Raje,03-09-1986,India,Gujarat Lions
+116,PJ Sangwan,05-11-1990,India,Gujarat Lions
+117,Mohammad Asif,20-12-1982,Pakistan,Gujarat Lions
+118,GD McGrath,09-02-1970,Australia,Kolkata Knight Riders
+119,Joginder Sharma,23-10-1983,India,Kolkata Knight Riders
+120,MS Gony,04-01-1984,India,Kolkata Knight Riders
+121,M Muralitharan,17-04-1972,Sri Lanka,Kolkata Knight Riders
+122,M Ntini,06-07-1977,South Africa,Kolkata Knight Riders
+123,DT Patil,06-12-1984,India,Kolkata Knight Riders
+124,A Kumble,17-10-1970,India,Royal Challengers Bangalore
+125,S Anirudha,14-04-1987,India,Royal Challengers Bangalore
+126,MM Patel,12-07-1983,India,Royal Challengers Bangalore
+127,CK Kapugedera,24-02-1987,Sri Lanka,Royal Challengers Bangalore
+128,A Chopra,19-09-1977,India,Royal Challengers Bangalore
+129,T Taibu,14-05-1983,Zimbabwea,Royal Challengers Bangalore
+130,J Arunkumar,18-01-1975,India,Royal Challengers Bangalore
+131,PP Ojha,05-09-1986,India,Royal Challengers Bangalore
+132,SP Goswami,18-05-1989,India,Royal Challengers Bangalore
+133,SR Tendulkar,24-04-1973,India,Royal Challengers Bangalore
+134,U Kaul,02-12-1987,India,Royal Challengers Bangalore
+135,TM Dilshan,14-10-1976,Sri Lanka,Chennai Super Kings
+136,A Mishra,24-11-1982,India,Chennai Super Kings
+137,AD Mascarenhas,30-10-1977,England,Chennai Super Kings
+138,NK Patel,26-03-1981,India,Chennai Super Kings
+139,LA Pomersbach,28-09-1984,Australia,Chennai Super Kings
+140,Iqbal Abdulla,02-12-1989,India,Chennai Super Kings
+141,Younis Khan,29-11-1977,Pakistan,Chennai Super Kings
+142,PM Sarvesh Kumar,26-04-1989,India,Kings XI Punjab
+143,DP Vijaykumar,20-10-1986,India,Kings XI Punjab
+144,Shoaib Akhtar,13-08-1975,Pakistan,Kings XI Punjab
+145,Abdur Razzak,15-06-1982,Bangladesh,Kings XI Punjab
+146,H Das,10-12-1986,India,Kings XI Punjab
+147,DR Smith,12-04-1983,West Indies,Kings XI Punjab
+148,SD Chitnis,06-05-1987,India,Rajasthan Royals
+149,CRD Fernando,19-07-1979,Sri Lanka,Rajasthan Royals
+150,VS Yeligati,23-04-1985,India,Rajasthan Royals
+151,L Balaji,27-09-1981,India,Rajasthan Royals
+152,A Mukund,06-01-1990,India,Rajasthan Royals
+153,RR Powar,20-05-1978,India,Rajasthan Royals
+154,JP Duminy,14-04-1984,South Africa,Rajasthan Royals
+155,A Flintoff,06-12-1977,England,Rajasthan Royals
+156,T Thushara,01-03-1981,Sri Lanka,Rajasthan Royals
+157,JD Ryder,06-08-1984,New Zealand,Rajasthan Royals
+158,KP Pietersen,27-06-1980,South Africa,Delhi Daredevils
+159,T Henderson,01-08-1974,South Africa,Delhi Daredevils
+160,Kamran Khan,10-03-1991,India,Delhi Daredevils
+161,RS Bopara,04-05-1985,England,Mumbai Indians
+162,CH Gayle,21-09-1979,West Indies,Mumbai Indians
+163,MC Henriques,01-02-1987,Australia,Mumbai Indians
+164,R Bishnoi,08-10-1987,India,Mumbai Indians
+165,FH Edwards,06-02-1982,West Indies,Mumbai Indians
+166,KV Sharma,23-10-1987,India,Mumbai Indians
+167,PC Valthaty,07-12-1983,India,Mumbai Indians
+168,RJ Quiney,20-08-1982,Australia,Mumbai Indians
+169,AS Raut,03-03-1987,India,Royal Challengers Bangalore
+170,Yashpal Singh,27-11-1981,India,Royal Challengers Bangalore
+171,M Manhas,12-10-1979,India,Deccan Chargers
+172,AA Bilakhia,31-05-1986,India,Deccan Chargers
+173,AN Ghosh,19-10-1986,India,Deccan Chargers
+174,BAW Mendis,11-03-1985,Sri Lanka,Deccan Chargers
+175,DL Vettori,27-01-1979,New Zealand,Deccan Chargers
+176,MN van Wyk,20-03-1979,South Africa,Deccan Chargers
+177,RE van der Merwe,31-12-1984,South Africa,Deccan Chargers
+178,TL Suman,15-12-1983,India,Deccan Chargers
+179,Shoaib Ahmed,17-08-1990,Pakistan,Deccan Chargers
+180,GR Napier,06-01-1980,England,Kolkata Knight Riders
+181,KP Appanna,20-12-1988,India,Kolkata Knight Riders
+182,LA Carseldine,17-11-1975,Australia,Kings XI Punjab
+183,NV Ojha,20-07-1983,India,Kings XI Punjab
+184,SM Harwood,01-03-1974,Australia,Kings XI Punjab
+185,M Vijay,01-04-1984,India,Kings XI Punjab
+186,SB Jakati,27-11-1980,India,Kings XI Punjab
+187,DA Warner,27-10-1986,Australia,Rajasthan Royals
+188,RJ Harris,11-10-1979,Australia,Kolkata Knight Riders
+189,D du Preez,08-11-1981,South Africa,Mumbai Indians
+190,M Morkel,06-10-1984,South Africa,Mumbai Indians
+191,AD Mathews,02-06-1987,Sri Lanka,Mumbai Indians
+192,J Botha,02-05-1982,South Africa,Rajasthan Royals
+193,C Nanda,29-03-1979,India,Royal Challengers Bangalore
+194,SL Malinga,28-08-1983,Sri Lanka,Kochi Tusker Kerala
+195,Mashrafe Mortaza,05-10-1983,Bangladesh,Kochi Tusker Kerala
+196,A Singh,21-06-1981,India,Kochi Tusker Kerala
+197,GJ Bailey,07-09-1982,Australia,Kochi Tusker Kerala
+198,AB McDonald,05-06-1981,Australia,Kochi Tusker Kerala
+199,Y Nagar,06-01-1990,India,Pune Warriors
+200,SS Shaikh,18-01-1987,India,Pune Warriors
+201,R Ashwin,17-09-1986,India,Pune Warriors
+202,Mohammad Ashraful,07-07-1984,Bangladesh,Pune Warriors
+203,CA Pujara,25-01-1988,India,Pune Warriors
+204,OA Shah,22-10-1978,England,Pune Warriors
+205,Anirudh Singh,02-08-1980,India,Pune Warriors
+206,Jaskaran Singh,04-09-1989,India,Pune Warriors
+207,AP Tare,07-11-1987,India,Sunrisers Hyderabad
+208,AT Rayudu,23-09-1985,India,Sunrisers Hyderabad
+209,R Sathish,14-01-1981,India,Sunrisers Hyderabad
+210,R McLaren,09-02-1983,South Africa,Sunrisers Hyderabad
+211,AA Jhunjhunwala,01-12-1982,India,Sunrisers Hyderabad
+212,P Dogra,19-11-1984,India,Sunrisers Hyderabad
+213,A Uniyal,21-11-1981,India,Sunrisers Hyderabad
+214,MS Bisla,27-12-1984,India,Sunrisers Hyderabad
+215,YA Abdulla,17-01-1983,India,Sunrisers Hyderabad
+216,EJG Morgan,10-09-1986,England,Sunrisers Hyderabad
+217,JM Kemp,02-10-1977,South Africa,Rising Pune Super Giants
+218,S Tyagi,17-09-1987,India,Rising Pune Super Giants
+219,RS Gavaskar,20-02-1976,India,Rising Pune Super Giants
+220,SE Bond,07-06-1975,New Zealand,Rising Pune Super Giants
+221,KA Pollard,12-05-1987,West Indies,Rising Pune Super Giants
+222,S Ladda,10-07-1986,India,Rising Pune Super Giants
+223,DP Nannes,16-05-1976,Australia,Rising Pune Super Giants
+224,MJ Lumb,12-02-1980,England,Rising Pune Super Giants
+225,DR Martyn,21-10-1971,Australia,Gujarat Lions
+226,S Narwal,16-04-1982,India,Gujarat Lions
+227,AB Barath,14-04-1990,India,Gujarat Lions
+228,Bipul Sharma,28-09-1983,India,Gujarat Lions
+229,FY Fazal,07-09-1985,India,Gujarat Lions
+230,AC Voges,04-10-1979,Australia,Gujarat Lions
+231,MD Mishra,09-02-1984,India,Gujarat Lions
+232,UT Yadav,25-10-1987,India,Gujarat Lions
+233,J Theron,24-07-1985,South Africa,Gujarat Lions
+234,SJ Srivastava,22-09-1981,India,Gujarat Lions
+235,R Sharma,30-04-1987,India,Gujarat Lions
+236,Mandeep Singh,18-12-1991,India,Kolkata Knight Riders
+237,KM Jadhav,26-03-1985,India,Kolkata Knight Riders
+238,SW Tait,22-02-1983,Australia,Kolkata Knight Riders
+239,KB Arun Karthik,15-02-1986,India,Kolkata Knight Riders
+240,KAJ Roach,30-06-1988,West Indies,Kolkata Knight Riders
+241,PD Collingwood,26-05-1976,England,Kolkata Knight Riders
+242,CK Langeveldt,17-12-1974,England,Royal Challengers Bangalore
+243,VS Malik,09-05-1983,India,Royal Challengers Bangalore
+244,A Mithun,25-10-1989,India,Royal Challengers Bangalore
+245,AP Dole,09-10-1987,India,Royal Challengers Bangalore
+246,AN Ahmed,05-11-1988,India,Royal Challengers Bangalore
+247,RS Sodhi,18-10-1980,India,Royal Challengers Bangalore
+248,DE Bollinger,24-07-1981,Australia,Royal Challengers Bangalore
+249,S Sriram,21-02-1976,India,Royal Challengers Bangalore
+250,B Sumanth,10-05-1988,India,Royal Challengers Bangalore
+251,C Madan,15-10-1982,India,Royal Challengers Bangalore
+252,AG Paunikar,18-04-1988,India,Royal Challengers Bangalore
+253,MR Marsh,20-10-1991,Australia,Chennai Super Kings
+254,AJ Finch,17-11-1986,Australia,Chennai Super Kings
+255,STR Binny,03-06-1984,India,Chennai Super Kings
+256,Harmeet Singh,07-09-1992,India,Chennai Super Kings
+257,IR Jaggi,27-01-1989,India,Chennai Super Kings
+258,DT Christian,04-05-1983,Australia,Chennai Super Kings
+259,RV Gomez,16-10-1985,India,Chennai Super Kings
+260,MA Agarwal,16-02-1991,India,Kings XI Punjab
+261,AUK Pathan,17-06-1984,India,Kings XI Punjab
+262,UBT Chand,26-03-1993,India,Kings XI Punjab
+263,DJ Jacobs,04-11-1982,South Africa,Kings XI Punjab
+264,Sunny Singh,18-12-1986,India,Kings XI Punjab
+265,NJ Rimmington,11-11-1982,Australia,Kings XI Punjab
+266,AL Menaria,29-10-1990,India,Rajasthan Royals
+267,WD Parnell,30-07-1989,South Africa,Rajasthan Royals
+268,JJ van der Wath,10-01-1978,South Africa,Rajasthan Royals
+269,R Ninan,19-11-1985,India,Rajasthan Royals
+270,S Aravind,08-04-1984,India,Rajasthan Royals
+271,MS Wade,26-12-1987,Australia,Rajasthan Royals
+272,TD Paine,08-12-1984,Australia,Rajasthan Royals
+273,SB Wagh,09-10-1988,India,Rajasthan Royals
+274,AC Thomas,09-02-1977,England,Rajasthan Royals
+275,JEC Franklin,07-11-1980,New Zealand,Rajasthan Royals
+276,Shakib Al Hasan,24-03-1987,Bangladesh,Delhi Daredevils
+277,DH Yagnik,22-06-1983,India,Delhi Daredevils
+278,S Randiv,30-01-1985,Sri Lanka,Delhi Daredevils
+279,BJ Haddin,23-10-1977,Australia,Mumbai Indians
+280,NLTC Perera,03-04-1989,Sri Lanka,Mumbai Indians
+281,NL McCullum,01-09-1980,New Zealand,Mumbai Indians
+282,JE Taylor,22-06-1984,New Zealand,Mumbai Indians
+283,J Syed Mohammad,03-06-1983,India,Mumbai Indians
+284,RN ten Doeschate,30-06-1980,Netherlands,Mumbai Indians
+285,TR Birt,09-12-1981,Australia,Mumbai Indians
+286,AG Murtaza,01-01-1990,India,Mumbai Indians
+287,Harpreet Singh,11-08-1991,India,Royal Challengers Bangalore
+288,M Klinger,04-07-1980,Australia,Royal Challengers Bangalore
+289,AC Blizzard,27-06-1984,Australia,Deccan Chargers
+290,I Malhotra,23-05-1984,India,Deccan Chargers
+291,L Ablish,03-12-1982,India,Deccan Chargers
+292,CA Ingram,03-07-1985,South Africa,Deccan Chargers
+293,S Nadeem,12-08-1989,India,Deccan Chargers
+294,P Parameswaran,30-05-1985,India,Deccan Chargers
+295,CJ Ferguson,21-11-1984,Australia,Deccan Chargers
+296,VR Aaron,29-10-1989,India,Deccan Chargers
+297,AA Chavan,28-10-1985,India,Deccan Chargers
+298,ND Doshi,06-10-1978,India,Kolkata Knight Riders
+299,B Kumar,05-02-1990,India,Kolkata Knight Riders
+300,Y Gnaneswara Rao,25-08-1984,India,Kings XI Punjab
+301,S Rana,18-09-1984,India,Kings XI Punjab
+302,BA Bhatt,13-05-1990,India,Kings XI Punjab
+303,F du Plessis,13-07-1984,South Africa,Kings XI Punjab
+304,RE Levi,14-01-1988,South Africa,Kings XI Punjab
+305,GJ Maxwell,14-10-1988,Australia,Rajasthan Royals
+306,SPD Smith,02-06-1989,India,Kolkata Knight Riders
+307,MN Samuels,05-02-1981,West Indies,Mumbai Indians
+308,SA Yadav,14-09-1990,India,Mumbai Indians
+309,KK Cooper,16-02-1989,West Indies,Mumbai Indians
+310,JP Faulkner,29-04-1990,Australia,Rajasthan Royals
+311,HV Patel,23-11-1990,India,Royal Challengers Bangalore
+312,DAJ Bracewell,28-09-1990,New Zealand,Kochi Tusker Kerala
+313,DJ Harris,31-12-1979,Australia,Kochi Tusker Kerala
+314,Ankit Sharma,20-04-1991,India,Kochi Tusker Kerala
+315,SP Narine,26-05-1988,West Indies,Kochi Tusker Kerala
+316,GB Hogg,06-02-1971,Australia,Kochi Tusker Kerala
+317,RR Bhatkal,01-09-1985,India,Pune Warriors
+318,CJ McKay,20-02-1983,Australia,Pune Warriors
+319,N Saini,28-10-1988,India,Pune Warriors
+320,DA Miller,10-06-1989,South Africa,Pune Warriors
+321,Azhar Mahmood,28-02-1975,Pakistan,Pune Warriors
+322,P Negi,06-01-1993,India,Pune Warriors
+323,RJ Peterson,04-08-1979,South Africa,Pune Warriors
+324,KMDN Kulasekara,22-07-1982,Sri Lanka,Pune Warriors
+325,A Ashish Reddy,24-02-1991,India,Sunrisers Hyderabad
+326,V Pratap Singh,03-05-1992,India,Sunrisers Hyderabad
+327,BB Samantray,14-12-1988,India,Sunrisers Hyderabad
+328,MJ Clarke,02-04-1981,Australia,Sunrisers Hyderabad
+329,Gurkeerat Singh,29-06-1990,India,Sunrisers Hyderabad
+330,AP Majumdar,30-04-1984,India,Sunrisers Hyderabad
+331,PA Reddy,11-02-1991,India,Sunrisers Hyderabad
+332,K Upadhyay,18-06-1986,India,Sunrisers Hyderabad
+333,P Awana,19-07-1986,India,Sunrisers Hyderabad
+334,AD Russell,29-04-1988,West Indies,Sunrisers Hyderabad
+335,A Chandila,05-12-1983,India,Rising Pune Super Giants
+336,CA Lynn,10-04-1990,Australia,Rising Pune Super Giants
+337,Sunny Gupta,27-09-1988,India,Rising Pune Super Giants
+338,MC Juneja,12-09-1990,India,Rising Pune Super Giants
+339,KK Nair,06-12-1991,India,Rising Pune Super Giants
+340,GH Vihari,13-10-1993,India,Rising Pune Super Giants
+341,MDKJ Perera,17-08-1990,Sri Lanka,Rising Pune Super Giants
+342,R Shukla,28-08-1990,India,Rising Pune Super Giants
+343,B Laughlin,03-10-1982,Australia,Gujarat Lions
+344,AS Rajpoot,04-12-1993,India,Gujarat Lions
+345,M Vohra,18-07-1993,India,Gujarat Lions
+346,JD Unadkat,18-10-1991,India,Gujarat Lions
+347,Mohammed Shami,03-09-1990,India,Gujarat Lions
+348,BMAJ Mendis,15-01-1983,Sri Lanka,Gujarat Lions
+349,R Rampaul,15-10-1984,West Indies,Gujarat Lions
+350,CH Morris,30-04-1987,South Africa,Gujarat Lions
+351,SV Samson,11-11-1994,India,Gujarat Lions
+352,SMSM Senanayake,09-02-1985,Sri Lanka,Gujarat Lions
+353,BJ Rohrer,26-03-1981,Australia,Gujarat Lions
+354,KL Rahul,18-04-1992,India,Kolkata Knight Riders
+355,Q de Kock,17-12-1992,South Africa,Gujarat Lions
+356,R Dhawan,19-02-1990,India,Gujarat Lions
+357,MG Johnson,02-11-1981,Australia,Rising Pune Super Giants
+358,LJ Wright,07-03-1985,England,Rising Pune Super Giants
+359,IC Pandey,15-08-1989,India,Rising Pune Super Giants
+360,CM Gautam,08-03-1986,India,Rising Pune Super Giants
+361,X Thalaivan Sargunam,15-05-1985,India,Rising Pune Super Giants
+362,DJG Sammy,20-12-1983,West Indies,Rising Pune Super Giants
+363,KW Richardson,12-02-1991,Australia,Rising Pune Super Giants
+364,MM Sharma,18-09-1988,India,Rising Pune Super Giants
+365,UA Birla,17-11-1989,India,Rising Pune Super Giants
+366,Parvez Rasool,13-02-1989,India,Rising Pune Super Giants
+367,Sandeep Sharma,18-05-1993,India,Rising Pune Super Giants
+368,S Kaul,19-05-1990,India,Sunrisers Hyderabad
+369,Sachin Baby,18-12-1988,India,Sunrisers Hyderabad
+370,PV Tambe,08-10-1971,India,Sunrisers Hyderabad
+371,NM Coulter-Nile,11-10-1987,Australia,Sunrisers Hyderabad
+372,CJ Anderson,13-12-1990,New Zealand,Sunrisers Hyderabad
+373,NJ Maddinson,21-12-1991,Australia,Pune Warriors
+374,AR Patel,20-01-1994,India,Pune Warriors
+375,JJ Bumrah,06-12-1993,India,Pune Warriors
+376,JDS Neesham,17-09-1990,New Zealand,Pune Warriors
+377,TG Southee,11-12-1988,New Zealand,Pune Warriors
+378,MA Starc,30-01-1990,Australia,Pune Warriors
+379,BR Dunk,11-03-1987,Australia,Pune Warriors
+380,RR Rossouw,09-10-1989,South Africa,Pune Warriors
+381,Shivam Sharma,09-09-1993,India,Pune Warriors
+382,YS Chahal,23-07-1990,India,Pune Warriors
+383,LMP Simmons,25-01-1985,West Indies,Pune Warriors
+384,VH Zol,23-11-1994,India,Pune Warriors
+385,BCJ Cutting,30-01-1987,Australia,Pune Warriors
+386,Imran Tahir,27-03-1979,India,Kochi Tusker Kerala
+387,BE Hendricks,08-06-1990,South Africa,Kochi Tusker Kerala
+388,S Gopal,04-09-1993,India,Kochi Tusker Kerala
+389,M de Lange,13-10-1990,South Africa,Kochi Tusker Kerala
+390,R Tewatia,20-05-1993,India,Kochi Tusker Kerala
+391,JO Holder,05-11-1991,West Indies,Kochi Tusker Kerala
+392,Karanveer Singh,08-11-1987,India,Kochi Tusker Kerala
+393,SS Iyer,06-12-1994,India,Kochi Tusker Kerala
+394,DJ Hooda,19-04-1995,India,Kochi Tusker Kerala
+395,Anureet Singh,02-03-1988,India,Kochi Tusker Kerala
+396,KS Williamson,08-08-1990,New Zealand,Kochi Tusker Kerala
+397,SA Abbott,29-02-1992,New Zealand,Kochi Tusker Kerala
+398,J Suchith,16-01-1994,India,Kochi Tusker Kerala
+399,RG More,02-02-1992,India,Kochi Tusker Kerala
+400,HH Pandya,11-10-1993,India,Kochi Tusker Kerala
+401,D Wiese,18-05-1985,South Africa,Kochi Tusker Kerala
+402,SN Khan,27-10-1997,India,Kochi Tusker Kerala
+403,MJ McClenaghan,11-06-1986,New Zealand,Kochi Tusker Kerala
+404,DJ Muthuswami,09-03-1981,India,Kochi Tusker Kerala
+405,PJ Cummins,08-05-1993,Australia,Kochi Tusker Kerala
+406,SN Thakur,16-10-1991,India,Deccan Chargers
+407,JC Buttler,08-09-1990,England,Deccan Chargers
+408,CR Brathwaite,18-07-1988,West Indies,Deccan Chargers
+409,MP Stoinis,16-08-1989,Australia,Deccan Chargers
+410,Ishan Kishan,18-07-1998,India,Deccan Chargers
+411,C Munro,11-03-1987,New Zealand,Deccan Chargers
+412,P Sahu,21-08-1985,India,Deccan Chargers
+413,KH Pandya,24-03-1991,India,Deccan Chargers
+414,AD Nath,10-05-1993,India,Delhi Daredevils
+415,MJ Guptill,30-09-1986,New Zealand,Delhi Daredevils
+416,KJ Abbott,18-06-1987,South Africa,Delhi Daredevils
+417,TM Head,29-12-1993,Australia,Delhi Daredevils
+418,M Ashwin,08-09-1990,India,Delhi Daredevils
+419,NS Naik,09-11-1994,India,Delhi Daredevils
+420,RR Pant,04-10-1997,India,Delhi Daredevils
+421,SW Billings,15-06-1991,England,Delhi Daredevils
+422,KC Cariappa,13-04-1994,India,Delhi Daredevils
+423,PSP Handscomb,26-04-1991,Australia,Delhi Daredevils
+424,Swapnil Singh,22-01-1991,India,Delhi Daredevils
+425,J Yadav,22-01-1990,India,Delhi Daredevils
+426,UT Khawaja,18-12-1986,Australia,Delhi Daredevils
+427,HM Amla,31-03-1983,South Africa,Delhi Daredevils
+428,F Behardien,09-10-1983,South Africa,Delhi Daredevils
+429,BB Sran,10-12-1992,India,Delhi Daredevils
+430,A Zampa,31-03-1992,Australia,Delhi Daredevils
+431,N Rana,27-12-1993,India,Delhi Daredevils
+432,S Kaushik,07-09-1995,India,Delhi Daredevils
+433,ER Dwivedi,22-07-1988,India,Delhi Daredevils
+434,CJ Jordan,04-10-1988,England,Delhi Daredevils
+435,P Amarnath,01-06-1982,India,Delhi Daredevils
+436,B Geeves,13-06-1982,Australia,Delhi Daredevils
+437,Gagandeep Singh,03-10-1981,India,Delhi Daredevils
+438,A Nel,15-07-1977,South Africa,Delhi Daredevils
+439,AM Salvi,20-10-1981,India,Delhi Daredevils
+440,RR Bose,27-02-1979,India,Chennai Super Kings
+441,SS Sarkar,15-12-1984,India,Chennai Super Kings
+442,RA Shaikh,12-06-1985,India,Chennai Super Kings
+443,C Ganapathy,10-06-1981,India,Chennai Super Kings
+444,MB Parmar,12-04-1988,India,Chennai Super Kings
+445,AA Kazi,29-09-1989,India,Chennai Super Kings
+446,Anand Rajan,17-04-1987,India,Chennai Super Kings
+447,P Prasanth,22-05-1985,India,Chennai Super Kings
+448,SS Mundhe,27-10-1988,India,Chennai Super Kings
+449,RW Price,12-06-1976,Zimbabwea,Chennai Super Kings
+450,TP Sudhindra,24-04-1984,India,Chennai Super Kings
+451,BW Hilfenhaus,15-03-1983,Australia,Chennai Super Kings
+452,S Badree,09-03-1981,West Indies,Chennai Super Kings
+453,P Suyal,15-10-1989,India,Chennai Super Kings
+454,MG Neser,29-03-1990,Australia,Kolkata Knight Riders
+455,V Shankar,26-01-1991,India,Kolkata Knight Riders
+456,K Santokie,20-12-1984,West Indies,Kolkata Knight Riders
+457,JW Hastings,04-11-1985,Australia,Kolkata Knight Riders
+458,TA Boult,22-07-1989,New Zealand,Kolkata Knight Riders
+459,GS Sandhu,14-06-1993,Australia,Kolkata Knight Riders
+460,Mustafizur Rahman,06-09-1995,Bangladesh,Kolkata Knight Riders
+461,AF Milne,13-04-1992,New Zealand,Kolkata Knight Riders
+462,Kuldeep Yadav,14-12-1994,India,Kolkata Knight Riders
+463,T Shamsi,18-02-1990,South Africa,Kolkata Knight Riders
+464,SM Boland,11-04-1989,Australia,Kolkata Knight Riders
+465,DL Chahar,07-08-1992,India,Kolkata Knight Riders
+466,P Dharmani,27-09-1974,India,Kolkata Knight Riders
+467,RV Pawar,06-09-1979,India,Kolkata Knight Riders
+468,KH Devdhar,14-12-1989,India,Kolkata Knight Riders
+469,T Mishra,22-12-1986,India,Kolkata Knight Riders

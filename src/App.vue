@@ -1,17 +1,20 @@
 <template>
   <div id="app">
-    <img alt="Vue logo" src="./assets/logo.png">
-    <HelloWorld msg="Welcome to Your Vue.js App"/>
+    <Header/>
+    <Dashboard/>
   </div>
 </template>
 
 <script>
-import HelloWorld from './components/HelloWorld.vue'
+
+import Header from './components/Header'
+import Dashboard from './components/Dashboard'
 
 export default {
   name: 'App',
   components: {
-    HelloWorld
+    Header,
+    Dashboard
   }
 }
 </script>
@@ -25,4 +28,7 @@ export default {
   color: #2c3e50;
   margin-top: 60px;
 }
+  /* @import "../node_modules/ag-grid-community/dist/styles/ag-grid.css"; */
+  @import "../node_modules/ag-grid-community/dist/styles/ag-grid.css";
+  @import "../node_modules/ag-grid-community/dist/styles/ag-theme-alpine.css";
 </style>
