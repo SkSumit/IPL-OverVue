@@ -1,7 +1,7 @@
 .DS_Store
 node_modules
 /dist
-report.20201102.125858.20856.0.001.json
+
 
 # local env files
 .env.local
