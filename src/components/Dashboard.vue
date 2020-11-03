@@ -5,7 +5,7 @@
         <ag-grid-vue
           style=" height: 90vh;"
           class="ag-theme-material"
-          :columnDefs="gridOptions.columnDefs"
+          :columnDefs="this.gridOptions.columnDefs"
           :rowData="gridOptions.rowData"
           :defaultColDef="gridOptions.defaultColDef"
           rowSelection="multiple"
@@ -27,6 +27,7 @@ import {
   MultiFilterModule,
   RowGroupingModule,
 } from "@ag-grid-enterprise/all-modules";
+
 const file = require("../assets/csv/Players.csv");
 
 export default {
@@ -38,6 +39,8 @@ export default {
       sideBar: null,
       modules: [MultiFilterModule, RowGroupingModule],
       statusBar: null,
+      gridOptions: null,
+      gridApi: null,
     };
   },
   components: {
@@ -51,6 +54,7 @@ export default {
         autoHeight: true,
         autoWidth: true,
         filter: "agMultiColumnFilter",
+        applyMiniFilterWhileTyping: true,
       },
 
       columnDefs: [
@@ -65,7 +69,7 @@ export default {
           headerName: "DOB",
           field: "DOB",
           sortable: true,
-          filter: true,
+          filter: "date",
         },
         {
           headerName: "Country",
@@ -79,6 +83,9 @@ export default {
           sortable: true,
           filter: true,
           rowGroup: true,
+          filterParams: {
+            defaultToNothingSelected: true,
+          },
         },
       ],
       rowData: file.map((element) => {
