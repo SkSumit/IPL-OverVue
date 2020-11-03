@@ -4,13 +4,16 @@
       <div class="container box">
         <ag-grid-vue
           style=" height: 90vh;"
-          class="ag-theme-alpine"
+          class="ag-theme-material"
           :columnDefs="gridOptions.columnDefs"
           :rowData="gridOptions.rowData"
           :defaultColDef="gridOptions.defaultColDef"
           rowSelection="multiple"
           :sideBar="true"
           :modules="gridOptions.modules"
+          :animateRows="true"
+          :statusBar="gridOptions.statusBar"
+          :groupUseEntireRow="true"
         >
         </ag-grid-vue>
       </div>
@@ -20,9 +23,12 @@
 
 <script>
 import { AgGridVue } from "ag-grid-vue";
-import { MultiFilterModule } from "@ag-grid-enterprise/all-modules";
+import {
+  MultiFilterModule,
+  RowGroupingModule,
+} from "@ag-grid-enterprise/all-modules";
 const file = require("../assets/csv/Players.csv");
-console.log(file);
+
 export default {
   name: "Dashboard",
   data() {
@@ -30,7 +36,8 @@ export default {
       columnDefs: null,
       rowData: null,
       sideBar: null,
-      modules: [MultiFilterModule],
+      modules: [MultiFilterModule, RowGroupingModule],
+      statusBar: null,
     };
   },
   components: {
@@ -39,11 +46,13 @@ export default {
   beforeMount() {
     this.gridOptions = {
       defaultColDef: {
+        floatingFilter: true,
         resizable: true,
         autoHeight: true,
         autoWidth: true,
         filter: "agMultiColumnFilter",
       },
+
       columnDefs: [
         {
           headerName: "Player",
@@ -69,6 +78,7 @@ export default {
           field: "Team",
           sortable: true,
           filter: true,
+          rowGroup: true,
         },
       ],
       rowData: file.map((element) => {
@@ -79,6 +89,21 @@ export default {
           Team: element.Team_Id,
         };
       }),
+      statusBar: {
+        statusPanels: [
+          {
+            statusPanel: "agTotalAndFilteredRowCountComponent",
+            align: "left",
+          },
+          {
+            statusPanel: "agTotalRowCountComponent",
+            align: "center",
+          },
+          { statusPanel: "agFilteredRowCountComponent" },
+          { statusPanel: "agSelectedRowCountComponent" },
+          { statusPanel: "agAggregationComponent" },
+        ],
+      },
     };
   },
 };

@@ -1,22 +1,21 @@
 <template>
   <div id="app">
-    <Header/>
-    <Dashboard/>
+    <Header />
+    <Dashboard />
   </div>
 </template>
 
 <script>
-
-import Header from './components/Header'
-import Dashboard from './components/Dashboard'
+import Header from "./components/Header";
+import Dashboard from "./components/Dashboard";
 
 export default {
-  name: 'App',
+  name: "App",
   components: {
     Header,
-    Dashboard
-  }
-}
+    Dashboard,
+  },
+};
 </script>
 
 <style>
@@ -28,7 +27,8 @@ export default {
   color: #2c3e50;
   margin-top: 60px;
 }
-  /* @import "../node_modules/ag-grid-community/dist/styles/ag-grid.css"; */
-  @import "../node_modules/ag-grid-community/dist/styles/ag-grid.css";
-  @import "../node_modules/ag-grid-community/dist/styles/ag-theme-alpine.css";
+/* @import "../node_modules/ag-grid-community/dist/styles/ag-grid.css"; */
+@import "../node_modules/ag-grid-community/dist/styles/ag-grid.css";
+@import "../node_modules/ag-grid-community/dist/styles/ag-theme-alpine.css";
+@import "../node_modules/ag-grid-community/dist/styles/ag-theme-material.css";
 </style>
